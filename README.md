@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![YB_Kim](https://github.com/youngbeom-Kim/youngbeom-Kim/assets/77381579/fce45c8a-c2c2-43c4-9f9b-e7396c1200e5)
+
 <!--
 **youngbeom-Kim/youngbeom-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
