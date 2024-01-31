@@ -38,7 +38,7 @@
 
 ![youngbeom-Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngbeom-Kim&show_icons=true&theme=transparent)
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=abcd4501&color=dark)](https://velog.io/@abcd4501)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abcd4501)](https://solved.ac/abcd4501/)
 </div>
 
 <!--
