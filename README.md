@@ -37,8 +37,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngbeom-Kim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![youngbeom-Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngbeom-Kim&show_icons=true&theme=transparent)
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abcd4501)](https://solved.ac/abcd4501/)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=abcd4501)](https://solved.ac/abcd4501)
 </div>
 
 <!--
